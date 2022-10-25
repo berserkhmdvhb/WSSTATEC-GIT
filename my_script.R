@@ -13,7 +13,11 @@ lm_mod$coefficients
 
 data(iris)
 
-https://gist.github.com/b-rodrigues/1e66297254e51ec409dc98376cbb009e
+"https://gist.github.com/b-rodrigues/1e66297254e51ec409dc98376cbb009e"
 
 Add all files that got modified:
 git add .
+git commit -am "blablabla"
+git push origin main
+instead of origin, we could use URl of repository
+so its just a placeholder for URL
